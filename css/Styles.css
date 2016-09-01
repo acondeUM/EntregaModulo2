@@ -15,14 +15,14 @@ h2{
 }
 
 span.pink{
-	background-color: pink;
+	background-color: #ffb6c1;
 }
 
 span.red{
-	background-color: red;
+	background-color: #ff0000;
 }
 span.yellow{
-	background-color: yellow;
+	background-color: #ffff00;
 }
 
 section.box {
